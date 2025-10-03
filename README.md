@@ -36,9 +36,8 @@ I'm a passionate and detail-oriented software engineer with a strong foundation 
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🌐 [Portfolio / Website](https://your-website.com) *(if any)*  
-- ✉️ Email: `your-email@example.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/meer-kutubuddin-997092127)  
+- ✉️ Email: `your-meerkutbuddin@gmail.com`
 
 ---
 
