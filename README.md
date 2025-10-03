@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hello, I'm Meer Kutbuddin
 
-<!--
-**Meercod/Meercod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Professional Software Engineer | Full Stack Developer | Problem Solver
 
-Here are some ideas to get you started:
+I'm a passionate and detail-oriented software engineer with a strong foundation in system-level programming and full-stack web development. I enjoy building scalable applications, solving complex problems, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### 💡 Programming Languages
+- C, C++, Java, Python
+
+### 🌐 Web Technologies
+- HTML, CSS, JavaScript (ES6+)
+- React.js, Node.js, Express.js (MERN Stack)
+
+### 🛢️ Databases
+- SQL (MySQL, PostgreSQL)
+- NoSQL (MongoDB)
+
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- RESTful APIs
+- Postman, VS Code, Linux, Docker (basics)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meer-kutbuddin&show_icons=true&theme=radical" alt="Meer Kutbuddin's GitHub Stats" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🌐 [Portfolio / Website](https://your-website.com) *(if any)*  
+- ✉️ Email: `your-email@example.com`
+
+---
+
+_Always curious. Always building. Always improving._ 🚀
